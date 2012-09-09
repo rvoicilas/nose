@@ -21,7 +21,7 @@
   Andrey Golovizin.
 - Add --cover-min-percentage flag to force test runs without sufficient
   coverage to fail (#540). Patch by Domen Kožar.
-- Add travis-ci configuraion (#545). Patch by Domen Kožar.
+- Add travis-ci configuration (#545). Patch by Domen Kožar.
 - Call reactor.stop from twisted thread (#301). Patch by Adi Roiban.
 
 
